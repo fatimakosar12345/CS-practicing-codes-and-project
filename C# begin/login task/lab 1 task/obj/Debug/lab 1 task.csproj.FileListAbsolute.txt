@@ -1,0 +1,21 @@
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\bin\Debug\lab 1 task.exe.config
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\bin\Debug\lab 1 task.exe
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\bin\Debug\lab 1 task.pdb
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab 1 task.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab 1 task.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab_1_task.Form1.resources
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab_1_task.Properties.Resources.resources
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab 1 task.csproj.GenerateResource.cache
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab 1 task.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab 1 task.exe
+C:\Users\FATIMA\source\repos\lab 1 task\lab 1 task\obj\Debug\lab 1 task.pdb
+E:\fatima folder\codes\lab 1 task\lab 1 task\bin\Debug\lab 1 task.exe.config
+E:\fatima folder\codes\lab 1 task\lab 1 task\bin\Debug\lab 1 task.exe
+E:\fatima folder\codes\lab 1 task\lab 1 task\bin\Debug\lab 1 task.pdb
+E:\fatima folder\codes\lab 1 task\lab 1 task\obj\Debug\lab 1 task.csproj.AssemblyReference.cache
+E:\fatima folder\codes\lab 1 task\lab 1 task\obj\Debug\lab_1_task.Form1.resources
+E:\fatima folder\codes\lab 1 task\lab 1 task\obj\Debug\lab_1_task.Properties.Resources.resources
+E:\fatima folder\codes\lab 1 task\lab 1 task\obj\Debug\lab 1 task.csproj.GenerateResource.cache
+E:\fatima folder\codes\lab 1 task\lab 1 task\obj\Debug\lab 1 task.csproj.CoreCompileInputs.cache
+E:\fatima folder\codes\lab 1 task\lab 1 task\obj\Debug\lab 1 task.exe
+E:\fatima folder\codes\lab 1 task\lab 1 task\obj\Debug\lab 1 task.pdb

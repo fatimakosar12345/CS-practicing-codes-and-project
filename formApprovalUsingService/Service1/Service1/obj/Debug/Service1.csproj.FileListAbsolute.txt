@@ -1,0 +1,7 @@
+C:\Users\FATIMA\source\repos\Service1\Service1\bin\Service1.dll.config
+C:\Users\FATIMA\source\repos\Service1\Service1\bin\Service1.dll
+C:\Users\FATIMA\source\repos\Service1\Service1\bin\Service1.pdb
+C:\Users\FATIMA\source\repos\Service1\Service1\obj\Debug\Service1.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\Service1\Service1\obj\Debug\Service1.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\Service1\Service1\obj\Debug\Service1.dll
+C:\Users\FATIMA\source\repos\Service1\Service1\obj\Debug\Service1.pdb

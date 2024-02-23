@@ -1,0 +1,14 @@
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\bin\Debug\Lab 3 tasks.exe.config
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\bin\Debug\Lab 3 tasks.exe
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\bin\Debug\Lab 3 tasks.pdb
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab 3 tasks.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab 3 tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab_3_tasks.Form1.resources
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab_3_tasks.Properties.Resources.resources
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab 3 tasks.csproj.GenerateResource.cache
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab 3 tasks.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab 3 tasks.exe
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab 3 tasks.pdb
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab_3_tasks.Form2.resources
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab_3_tasks.ctluserDisplay.resources
+C:\Users\FATIMA\source\repos\Lab 3 tasks\Lab 3 tasks\obj\Debug\Lab_3_tasks.LoginUserHome.resources

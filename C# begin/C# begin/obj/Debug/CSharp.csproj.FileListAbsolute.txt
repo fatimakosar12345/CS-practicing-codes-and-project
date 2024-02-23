@@ -1,0 +1,21 @@
+C:\Users\FATIMA\source\repos\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\FATIMA\source\repos\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\FATIMA\source\repos\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.Form1.resources
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.csproj.GenerateResource.cache
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\FATIMA\source\repos\CSharp\CSharp\obj\Debug\CSharp.pdb
+E:\fatima folder\codes\CSharp\CSharp\bin\Debug\CSharp.exe.config
+E:\fatima folder\codes\CSharp\CSharp\bin\Debug\CSharp.exe
+E:\fatima folder\codes\CSharp\CSharp\bin\Debug\CSharp.pdb
+E:\fatima folder\codes\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+E:\fatima folder\codes\CSharp\CSharp\obj\Debug\CSharp.Form1.resources
+E:\fatima folder\codes\CSharp\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+E:\fatima folder\codes\CSharp\CSharp\obj\Debug\CSharp.csproj.GenerateResource.cache
+E:\fatima folder\codes\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+E:\fatima folder\codes\CSharp\CSharp\obj\Debug\CSharp.exe
+E:\fatima folder\codes\CSharp\CSharp\obj\Debug\CSharp.pdb

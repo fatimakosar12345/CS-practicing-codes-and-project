@@ -1,0 +1,21 @@
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\bin\Debug\lab2 task 1_2.exe.config
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\bin\Debug\lab2 task 1_2.exe
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\bin\Debug\lab2 task 1_2.pdb
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2_task_1_2.Form1.resources
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2_task_1_2.Properties.Resources.resources
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.csproj.GenerateResource.cache
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.exe
+C:\Users\FATIMA\source\repos\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.pdb
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\bin\Debug\lab2 task 1_2.exe.config
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\bin\Debug\lab2 task 1_2.exe
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\bin\Debug\lab2 task 1_2.pdb
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.csproj.AssemblyReference.cache
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2_task_1_2.Form1.resources
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2_task_1_2.Properties.Resources.resources
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.csproj.GenerateResource.cache
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.csproj.CoreCompileInputs.cache
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.exe
+E:\fatima folder\codes\lab2 task 1_2\lab2 task 1_2\obj\Debug\lab2 task 1_2.pdb

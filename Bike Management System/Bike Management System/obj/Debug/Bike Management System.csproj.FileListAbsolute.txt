@@ -1,0 +1,33 @@
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\bin\Debug\Bike Management System.exe.config
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\bin\Debug\Bike Management System.exe
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\bin\Debug\Bike Management System.pdb
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike Management System.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form1.resources
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Properties.Resources.resources
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike Management System.csproj.GenerateResource.cache
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike Management System.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike Management System.exe
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike Management System.pdb
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.createAccount.resources
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form2.resources
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form3.resources
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form4.resources
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Owner.resources
+C:\Users\FATIMA\source\repos\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Manager.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\bin\Debug\Bike Management System.exe.config
+E:\fatima folder\codes\Bike Management System\Bike Management System\bin\Debug\Bike Management System.exe
+E:\fatima folder\codes\Bike Management System\Bike Management System\bin\Debug\Bike Management System.pdb
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike Management System.csproj.AssemblyReference.cache
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.createAccount.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form1.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form2.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form3.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Form4.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Manager.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Owner.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike_Management_System.Properties.Resources.resources
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike Management System.csproj.GenerateResource.cache
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike Management System.csproj.CoreCompileInputs.cache
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike Management System.exe
+E:\fatima folder\codes\Bike Management System\Bike Management System\obj\Debug\Bike Management System.pdb

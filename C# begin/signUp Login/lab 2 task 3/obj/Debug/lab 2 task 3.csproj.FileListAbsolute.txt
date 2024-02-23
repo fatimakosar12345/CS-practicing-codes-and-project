@@ -1,0 +1,25 @@
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\bin\Debug\lab 2 task 3.exe.config
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\bin\Debug\lab 2 task 3.exe
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\bin\Debug\lab 2 task 3.pdb
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Login.resources
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Properties.Resources.resources
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Signup.resources
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.csproj.GenerateResource.cache
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.exe
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.pdb
+C:\Users\FATIMA\source\repos\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Form1.resources
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\bin\Debug\lab 2 task 3.exe.config
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\bin\Debug\lab 2 task 3.exe
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\bin\Debug\lab 2 task 3.pdb
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.csproj.AssemblyReference.cache
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Form1.resources
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Login.resources
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Properties.Resources.resources
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab_2_task_3.Signup.resources
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.csproj.GenerateResource.cache
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.csproj.CoreCompileInputs.cache
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.exe
+E:\fatima folder\codes\lab 2 task 3\lab 2 task 3\obj\Debug\lab 2 task 3.pdb

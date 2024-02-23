@@ -1,0 +1,25 @@
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\bin\Debug\tasks lab 3.exe.config
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\bin\Debug\tasks lab 3.exe
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\bin\Debug\tasks lab 3.pdb
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.csproj.AssemblyReference.cache
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.Form1.resources
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.Properties.Resources.resources
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.csproj.GenerateResource.cache
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.exe
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.pdb
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.EditPost.resources
+C:\Users\FATIMA\source\repos\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.Form2.resources
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\bin\Debug\tasks lab 3.exe.config
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\bin\Debug\tasks lab 3.exe
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\bin\Debug\tasks lab 3.pdb
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.csproj.AssemblyReference.cache
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.EditPost.resources
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.Form1.resources
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.Form2.resources
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks_lab_3.Properties.Resources.resources
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.csproj.GenerateResource.cache
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.csproj.CoreCompileInputs.cache
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.exe
+E:\fatima folder\codes\tasks lab 3\tasks lab 3\obj\Debug\tasks lab 3.pdb
